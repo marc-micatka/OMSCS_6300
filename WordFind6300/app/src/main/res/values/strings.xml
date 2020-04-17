@@ -1,0 +1,73 @@
+<resources>
+    <string name="app_name">WordFind6300</string>
+    <string name="btn_new_game">Play a New Game</string>
+    <string name="btn_game_statistics">View Game Statistics</string>
+    <string name="btn_game_settings">Adjust Game Settings</string>
+    <string name="btn_reroll_board">Re-Roll Board</string>
+    <string name="btn_quit_game">Quit Game</string>
+    <string name="btn_add_word">Add Word</string>
+    <string name="btn_clear_word">Clear Word</string>
+    <string name="btn_main_menu">Main Menu</string>
+    <string name="ChangeSettingsMain">Change Settings</string>
+    <string name="gameLengthTitle">Game Length</string>
+    <string name="lengthMin">1 min</string>
+    <string name="lengthMax">5 min</string>
+    <string name="saveSettings">Save and Exit</string>
+    <string name="resetSettings">Reset Settings</string>
+    <string name="boardSizeTitle">Board Size</string>
+    <string name="addWeight">Add</string>
+    <string-array name="spinner_board_size">
+        <item>4 x 4</item>
+        <item>5 x 5</item>
+        <item>6 x 6</item>
+        <item>7 x 7</item>
+        <item>8 x 8</item>
+    </string-array>
+
+    <string name="LetterWeightTitle">Letter Weights</string>
+    <string name="individualVowels">Vowel</string>
+    <string name="individualConsonants">Consonant</string>
+    <string name="individualWeights">Weight</string>
+
+    <string-array name="spinner_vowel_entry">
+        <item>A</item>
+        <item>E</item>
+        <item>I</item>
+        <item>O</item>
+        <item>U</item>
+    </string-array>
+
+    <string-array name="spinner_consonant_entry">
+        <item>B</item>
+        <item>C</item>
+        <item>D</item>
+        <item>F</item>
+        <item>G</item>
+        <item>H</item>
+        <item>J</item>
+        <item>K</item>
+        <item>L</item>
+        <item>M</item>
+        <item>N</item>
+        <item>P</item>
+        <item>QU</item>
+        <item>R</item>
+        <item>S</item>
+        <item>T</item>
+        <item>V</item>
+        <item>W</item>
+        <item>X</item>
+        <item>Y</item>
+        <item>Z</item>
+    </string-array>
+
+    <string name="weightWarning">Vowel and consonant weights are independent.</string>
+    <string name="weightWarning2">New weight must be less than 5.</string>
+
+
+    <string name="ViewStatisticsMain">View Statistics</string>
+    <string name="view_game_stats">Game Statistics</string>
+    <string name="view_word_stats">Word Statistics</string>
+    <string name="PlayGameMain">Play Game</string>
+    <string name="timeLeft">Time Left</string>
+</resources>
