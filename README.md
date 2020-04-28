@@ -1,2 +1,2 @@
-WordFine6300
+WordFind6300
 OSMCS Software Development Process - Spring 2020
