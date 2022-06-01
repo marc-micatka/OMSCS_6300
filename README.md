@@ -1,2 +1,3 @@
 WordFind6300
-OSMCS Software Development Process - Spring 2020
+
+A bad boggle clone.
